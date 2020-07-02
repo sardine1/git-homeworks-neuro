@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+:root {
+    --main-blue-color: #264fb4;
+    --promo-text-color: #f0f0f0;
+=======
+body {
+}
+>>>>>>> parent of 03e67a8... Code cleanup
+
+>>>>>>> 610c5bc8a599c85969eb90a3354f7793e46ff87d
 .wrapper {
     max-width: 1920px;
     margin: 0 auto;
